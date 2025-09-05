@@ -13,3 +13,6 @@ Classification = **** # Special
 Energy = [Intensity, Color, Strength, Classification]
 
 Nucleus = Energy
+
+
+Quantum_Internal = [Ψ, h-, m, x, V)
